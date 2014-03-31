@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/55/trunk/support/issue42_task-queue
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/51/trunk/support/issue42_task-queue/app.yaml
+END
+helloworld.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/55/trunk/support/issue42_task-queue/helloworld.py
+END
+queue.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/51/trunk/support/issue42_task-queue/queue.yaml
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/51/trunk/support/issue42_task-queue/test.py
+END

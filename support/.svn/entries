@@ -1,0 +1,55 @@
+10
+
+dir
+60
+http://nose-gae.googlecode.com/svn/trunk/support
+http://nose-gae.googlecode.com/svn
+
+
+
+2010-12-26T22:01:45.198837Z
+55
+kumar.mcmillan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+3872a331-1c4b-0410-b623-73d68388d251
+
+issue07
+dir
+
+app_with_logging
+dir
+
+issue42_task-queue
+dir
+
+tests_in_package
+dir
+
+bad_app
+dir
+
+issue13-get_current_user
+dir
+
+issue02
+dir
+
+helloworld
+dir
+
+pets
+dir
+

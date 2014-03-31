@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/52/trunk/support/issue13-get_current_user
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52/trunk/support/issue13-get_current_user/app.yaml
+END
+helloworld.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/52/trunk/support/issue13-get_current_user/helloworld.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/52/trunk/support/issue13-get_current_user/test.py
+END
